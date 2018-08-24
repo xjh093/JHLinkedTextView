@@ -26,4 +26,3 @@ attributeText with Tap event
 # Notice
 
 设置为 链接 的文字，它的颜色由系统控制，这里设置为 `redColor` 与 `greenColor` 都无效，见效果图
-
