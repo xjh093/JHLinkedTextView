@@ -26,3 +26,8 @@ attributeText with Tap event
 # Notice
 
 设置为 链接 的文字，它的颜色由系统控制，这里设置为 `redColor` 与 `greenColor` 都无效，见效果图
+
+如果想要改变系统默认的颜色，使用`tintColor`设置颜色
+
+但是！！！无法单独设置每个的颜色，只能统一设置
+
