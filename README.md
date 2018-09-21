@@ -31,3 +31,11 @@ attributeText with Tap event
 
 但是！！！无法单独设置每个的颜色，只能统一设置
 
+# Other
+
+```
+textView.linkTextAttributes = @{NSForegroundColorAttributeName:[UIColor redColor],  // color
+                                NSUnderlineStyleAttributeName:@1,                   // underLine
+                                NSFontAttributeName:[UIFont systemFontOfSize:20]    // font
+                                };
+```                                    
